@@ -6,7 +6,9 @@ class Program1
    System.out.println("native place-mangalwedha");
    System.out.println("branch-civil engineering");
    System.out.println("yop-2023");
- 
+   System.out.println("yop-2023");
+   System.out.println("yop-2023");
+   
  }
 
 }
